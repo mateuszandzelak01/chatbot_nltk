@@ -1,0 +1,4 @@
+Czynsze lokali mieszkalnych
+Rozbudowano prezentację opisu algorytmów wyliczenia cen w strefie korespondencji seryjnej "Wymiar naliczenia" o obsługę składników opłat z ceną indywidualną.
+Ewidencje podstawowe
+W ewidencji „Osoby” zmieniono sposób wprowadzania danych w zakresie numeru identyfikacji podatkowej oraz kraju nadania tego numeru. Obecnie, dla kontrahentów zagranicznych, w polu „NIP” należy wpisać numer identyfikacji podatkowej bez oznaczenia kodu kraju, natomiast właściwy kraj należy wskazać z dostępnej listy w nowo dodanym polu „Kraj NIP”. Dotychczasowe numery identyfikacji podatkowej dla kontrahentów zagranicznych zostały automatycznie zmienione do nowej formy zapisu podczas wymiany wersji programu z 5.3.106 na wersję 5.3.108. Zmiany są spowodowane przygotowaniem ewidencji osób do wymogów sprawozdawczych w plikach JPK_V7M oraz JPK_V7K.

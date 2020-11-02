@@ -1,3 +1,7 @@
+# Folders
+base/
+base_beta/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,6 +12,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+base/
+base_beta/
 build/
 develop-eggs/
 dist/
