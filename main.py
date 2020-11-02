@@ -13,9 +13,9 @@ trainer = ListTrainer(bot)
 BotMemory = open('base/tekst.txt', 'r').readlines()
 trainer.train(BotMemory)
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder="templates")
 
-@app.route('/home')
+@app.route('/')
 def index():
 	return render_template('index.html')
 
